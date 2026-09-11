@@ -1,0 +1,23 @@
+<!--
+---
+page-layout: full
+---
+-->
+
+<div style="text-align: center; font-size: 36px;">
+Home
+</div>
+
+
+## About
+
+Hi, my name is Yamato Igarashi.
+
+I am a Master's student in Economics at the University of Tokyo.
+
+My research interests are Econometrics  and Applied Microeconomics.
+
+
+## Contact
+
+Email: igarashi-yamato-by [at] g.ecc.u-tokyo.ac.jp

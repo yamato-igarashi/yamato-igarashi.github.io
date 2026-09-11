@@ -1,0 +1,19 @@
+<!--
+---
+page-layout: full
+---
+-->
+
+<div style="text-align: center; font-size: 24px;">
+日本語ホームページ
+</div>
+
+## 自己紹介
+
+東京大学大学院経済学研究科 修士課程の五十嵐大和です。
+
+研究分野は計量経済学と応用ミクロ経済学です。
+
+## 連絡先
+
+Email: igarashi-yamato-by [at] g.ecc.u-tokyo.ac.jp

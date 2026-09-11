@@ -1,0 +1,40 @@
+body {
+  font-size: 1.0rem;
+  line-height: 1;
+}
+
+.navbar-brand {
+  font-weight: 600; 
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+h1 {
+  margin-bottom: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: transparent;
+}
+
+main.content {
+  max-width: 1000px;
+}
+
+.indent {
+  text-indent: 1.5em;
+}
+
+ul li {
+  margin-bottom: 0.6rem;
+}

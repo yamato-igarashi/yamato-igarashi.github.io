@@ -1,0 +1,35 @@
+<div style="text-align: center; font-size: 36px;">
+CV
+</div>
+
+## Education
+
+**The University of Tokyo** 
+
+::: {.indent}
+M.A. in Economics, \ 2025–Present 
+:::
+
+**Yokohama National University**
+
+::: {.indent}
+B.A. in Economics, \ Data Science Education Program (DSEP-Econ.), \ 2021–2025
+:::
+
+## Research
+
+**Working Papers**
+
+- "MSE-Optimal Difference-in-Differences Estimator", \ May 2026.
+
+## Presentations
+
+**2026** (including scheduled ones)
+
+::: {.indent}
+Japanese Economic Association Autumn Meeting (poster)
+:::
+
+---
+
+For more details, please see my [**CV (PDF)**](files/cv_yamato_igarashi.pdf)
