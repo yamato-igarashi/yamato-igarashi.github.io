@@ -6,7 +6,7 @@ Research
 
 - "MSE-Optimal Difference-in-Differences Estimator", May 2026.
 
-    [[arXiv](https://arxiv.org/abs/2605.05056) · [Slides(5min)](files/presentation_202609.pdf) · [Replication Package](https://github.com/yamato5810/MSE-Optimal_Difference-in-Differences_Estimator)]
+    [[arXiv](https://arxiv.org/abs/2605.05056) · [Slides(5min)](files/presentation_202609.pdf) · [Replication Package](https://github.com/yamato-igarashi/MSE-Optimal_Difference-in-Differences_Estimator)]
 
 
 ## Work in Progress
