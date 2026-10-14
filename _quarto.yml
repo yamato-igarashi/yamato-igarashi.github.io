@@ -12,7 +12,8 @@ website:
       - href: cv.qmd
         text: CV
       - href: japanese.qmd
-        text: Japanese/日本語
+        text: Japanese / 日本語
+  search: false      
 
 format:
   html:

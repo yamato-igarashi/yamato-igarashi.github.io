@@ -1,10 +1,22 @@
 body {
   font-size: 1.0rem;
   line-height: 1.2;
+  background-color: rgb(250, 255, 255);
+}
+
+.navbar {
+  background-color: rgb(0, 89, 100);
 }
 
 .navbar-brand {
-  font-weight: 600; 
+  font-weight: 500; 
+  font-size: 1.50rem;
+  font-family: "Century", serif;
+}
+
+.navbar .nav-link {
+  font-size: 1.2rem;
+  font-family: "Century", serif;
 }
 
 h1, h2, h3 {
@@ -29,6 +41,12 @@ a:hover {
 
 main.content {
   max-width: 1000px;
+  font-family: "Georgia", serif;
+  background-color: rgb(250, 255, 255);
+}
+
+main.content a {
+  color: #1558d6
 }
 
 .indent {

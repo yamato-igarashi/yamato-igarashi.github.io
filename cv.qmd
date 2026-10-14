@@ -20,7 +20,7 @@ B.A. in Economics, \ Data Science Education Program (DSEP-Econ.), \ 2021–2025
 
 **Working Papers**
 
-- "MSE-Optimal Difference-in-Differences Estimator", \ May 2026.
+- "[MSE-Optimal Difference-in-Differences Estimator](https://arxiv.org/abs/2605.05056)," May 2026.
 
 ## Presentations
 
@@ -32,4 +32,4 @@ Japanese Economic Association Autumn Meeting (poster)
 
 ---
 
-For more details, please see my [**CV (PDF)**](files/cv_yamato_igarashi.pdf)
+For more details, please see my [**CV (PDF)**](files/cv_yamato_igarashi.pdf).
