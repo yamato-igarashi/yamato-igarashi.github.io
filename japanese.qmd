@@ -4,8 +4,8 @@ page-layout: full
 ---
 -->
 
-<div style="text-align: center; font-size: 24px;">
-日本語ホームページ
+<div style="text-align: center;">
+# 日本語ホームページ
 </div>
 
 ## 自己紹介

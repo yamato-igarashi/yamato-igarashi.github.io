@@ -4,8 +4,8 @@ page-layout: full
 ---
 -->
 
-<div style="text-align: center; font-size: 36px;">
-Home
+<div style="text-align: center;">
+# Home
 </div>
 
 

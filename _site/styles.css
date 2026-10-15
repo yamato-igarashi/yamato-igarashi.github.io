@@ -15,7 +15,7 @@ body {
 }
 
 .navbar .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.20rem;
   font-family: "Century", serif;
 }
 
@@ -55,4 +55,103 @@ main.content a {
 
 ul li {
   margin-bottom: 0.6rem;
+}
+
+
+
+@media (max-width: 768px) {
+  body {
+    font-size: 0.80rem;
+    line-height: 1.30;
+    font-family: "Georgia", serif;
+  }
+
+  main.content {
+    width: 100%;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+  }
+
+  main.content p {
+    margin-bottom: 0.35rem;
+  }
+
+  main.content h1 {
+    font-size: 1.20rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  main.content h2 {
+    font-size: 1.00rem;
+    margin-top: 1.30rem;
+    margin-bottom: 0.5rem;
+  }
+
+  main.content h3 {
+    font-size: 0.90rem;
+  }
+
+  main.content ul li {
+    margin-bottom: 0.4rem;
+  }
+
+  .navbar {
+    width: 100%;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+  }
+
+  .navbar .navbar-brand {
+    font-size: 1.15rem;
+  }
+
+  .navbar .nav-link {
+    font-size: 0.95rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+  }
+
+  .navbar .navbar-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 100%;
+    position: relative;
+  }
+
+  .navbar .navbar-brand-container {
+    order: 2;
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+  .navbar .navbar-toggler {
+    order: 3;
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+  .navbar .navbar-collapse {
+    order: 4;
+  }
+
+  .navbar-collapse {
+    position: absolute;
+    top: 100%;
+    right: 0rem;
+    width: auto;
+    min-width: 170px;
+
+    background-color: rgb(0, 89, 100);
+    border-radius: 0.4rem;
+    padding-top: 0.65rem;
+    padding-bottom: 0rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.16);
+    z-index: 1000;
+  }
 }
