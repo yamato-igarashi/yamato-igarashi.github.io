@@ -5,18 +5,21 @@ body {
 }
 
 .navbar {
-  background-color: rgb(0, 89, 100);
+  background-color: rgb(240, 255, 255);
+  border-bottom: 2px solid rgb(210, 210, 210);
 }
 
 .navbar-brand {
   font-weight: 500; 
   font-size: 1.50rem;
   font-family: "Century", serif;
+  color: rgb(0, 89, 100) !important;
 }
 
 .navbar .nav-link {
   font-size: 1.20rem;
   font-family: "Century", serif;
+  color: rgb(0, 89, 100) !important;
 }
 
 h1, h2, h3 {
@@ -144,7 +147,7 @@ ul li {
     width: auto;
     min-width: 170px;
 
-    background-color: rgb(0, 89, 100);
+    background-color: rgb(240, 255, 255);
     border-radius: 0.4rem;
     padding-top: 0.65rem;
     padding-bottom: 0rem;
@@ -153,5 +156,9 @@ ul li {
 
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.16);
     z-index: 1000;
+  }
+
+.navbar .navbar-toggler-icon {
+    background-color: rgb(190, 190, 190);
   }
 }
